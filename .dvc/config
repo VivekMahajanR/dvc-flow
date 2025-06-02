@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\vivek\AppData\Local\Temp\storage
+    url = C:\Users\vivek\AppData\Local\Temp\dvc-storage
